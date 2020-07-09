@@ -1,0 +1,18 @@
+{
+  "name": "test-task-x5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexeyMixaylovich/taskX5.git",
+  "author": "alexeymixaylovich@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/passport": "^1.0.4"
+  }
+}
